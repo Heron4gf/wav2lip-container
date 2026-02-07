@@ -8,10 +8,6 @@ scipy==1.11.4
 librosa==0.10.1
 numba==0.58.1
 
-# Face detection
-face-recognition==1.3.0
-dlib==19.24.2
-
 # API
 fastapi==0.104.1
 uvicorn[standard]==0.24.0
