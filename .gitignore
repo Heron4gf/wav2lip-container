@@ -1,0 +1,37 @@
+# Modelli (grandi file)
+*.pth
+*.pkl
+*.ckpt
+models/*.pth
+models/*.pkl
+face_detection/models/*.pth
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output
+*.mp4
+*.wav
+*.jpg
+*.png
+!requirements.txt
